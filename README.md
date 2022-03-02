@@ -1,4 +1,4 @@
-# Wk9-RWorkshop-Ordination_and_stuff
+# Wk9-RWorkshop-VeganForLife
 
 This week will cover some techniques in nmds ordination, environmental vectoring, species accumulation curves, permanovas, db-RDA modeling, variation partitioning, (dis)similarity analysis, and a partridge in a pear tree. Script and data file attached.
 
